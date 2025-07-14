@@ -7,7 +7,7 @@ import "hardhat/console.sol";
 
 /**
  * @title TrustManager
- * @author Tuo Nome
+ * @author Federico Paccosi, Alessio Milano
  * @dev Contratto principale per la gestione di gruppi, spese e debiti nell'ecosistema TRUST.
  * Questo contratto funge da "backend" on-chain per l'applicazione, gestendo tutta la logica di business.
  * Si interfaccia con un token ERC20 (`TrustToken`) per la gestione dei saldi.
